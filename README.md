@@ -24,8 +24,6 @@ Alguns dos projetos incluídos neste repositório (descreva brevemente sobre cad
 - **Exercises** - 18 Exercicios para Entender o mecanismo pagina Html e Javascript.
 
 
-(Adicione ou altere a lista conforme necessário para refletir os projetos em seu repositório.)
-
 ## Como Executar
 
 Para executar os projetos deste repositório localmente, siga os seguintes passos:
