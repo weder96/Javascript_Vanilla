@@ -1,0 +1,17 @@
+{
+  "atual": [
+    { "data": "2025-04-22", "quantidade": 1, "valor": 150 },
+    { "data": "2025-04-22", "quantidade": 2, "valor": 250 },
+    { "data": "2025-04-22", "quantidade": 3, "valor": 350 }
+  ],
+  "anterior": [
+    { "data": "2025-04-20", "quantidade": 1, "valor": 450 },
+    { "data": "2025-04-20", "quantidade": 2, "valor": 550 },
+    { "data": "2025-04-20", "quantidade": 3, "valor": 650 }
+  ],
+  "retrasada": [
+    { "data": "2025-04-21", "quantidade": 1, "valor": 750 },
+    { "data": "2025-04-21", "quantidade": 2, "valor": 950 },
+    { "data": "2025-04-21", "quantidade": 3, "valor": 950 }
+  ]
+}
